@@ -10,8 +10,7 @@ const possibleMessages = ["ugh please no", "one more and you get banned",
                         "Papers please...", "You are not allowed to say that", 
                         "https://www.youtube.com/watch?v=dQw4w9WgXcQ", "retard", 
                         "REEEEEEEEEE", "maybe you are a monster...", "hahaha. You're not funny",
-                        "That's what she said", "You're so ugly you made an onion cry",
-                        "shove a cucumber up your ass you dickhead"]
+                        "That's what she said", "You're so ugly you made an onion cry"]
 
 client.on('ready', () => {
  console.log(`Logged in as ${client.user.tag}!`);
