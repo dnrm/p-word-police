@@ -22,5 +22,5 @@ client.on('message', message => {
  }
  });
 
-console.log(prcess.env.TOKEN)
+console.log(process.env.TOKEN)
 client.login(process.env.TOKEN);
